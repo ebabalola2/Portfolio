@@ -21,3 +21,5 @@ GridPoint
 
 This class is used in the hashmap, It relates to the positons of the dots which can be hased to be stroed in the Hashmap, and it can also guage the distance of a creature.
 
+# Project 3
+Making an enigma for cryptography, It is able to encrypt and decrypt ased on the settings the user puts. I also made a GUI for it so it has an application look to it.
